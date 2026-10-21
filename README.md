@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Adithyan 👋
 
-<!--
-**PK47740/PK47740** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student specializing in Artificial Intelligence
+and Machine Learning.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently learning Python, C, and Machine Learning
+- 📊 Exploring Data Science and Data Analysis
+- 🧠 Interested in AI, ML, and Software Development
+- 🎯 Looking for internship opportunities
+- 💻 Improving my programming and problem-solving skills
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+- Python
+- C
+
+### Libraries I'm Learning
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+
+## 🚀 Projects
+
+Currently working on beginner-friendly projects.
+
+## 📫 Connect With Me
+
+LinkedIn: Coming Soon
